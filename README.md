@@ -1,7 +1,7 @@
-Spring MVC Hibernate application configuration
-Displays a list of all employees from the database
-Work with @Service annotation
-Adding a new employee to the database
-Change the existing employee from the database
-Delete employee from database
-Add AOP functionality to the project
+Spring MVC Hibernate application configuration <br />
+Displays a list of all employees from the database <br />
+Work with @Service annotation <br />
+Adding a new employee to the database <br />
+Change the existing employee from the database <br />
+Delete employee from database <br />
+Add AOP functionality to the project <br />
